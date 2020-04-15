@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>2560x1440-gray-web-gray-solid-color-background.jpg</file>
+    </qresource>
+</RCC>
